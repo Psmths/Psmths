@@ -1,11 +1,12 @@
 ## Welcome!
 
-Welcome to my github profile! I am an information security professional who sometimes programs in his free time. 
+Welcome to my github profile! I am an information security professional who sometimes programs in his free time.
 
 
-- 🌱 I’m currently learning windows dead-disk forensics 
+- 🌱 I’m currently learning windows dead-disk forensics
 - 🔭 I’m currently working on custom instruction set architectures and virtual machines
-- ❤️ Passionate about Network Forensics, Security Monitoring, Threat Hunting 
+- ❤️ Passionate about Network Forensics, Security Monitoring, Threat Hunting
+- 📜 GCFE
 - 🌎 English/Italian
 - 😄 Pronouns: He/Him
 
