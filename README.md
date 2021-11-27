@@ -4,7 +4,7 @@ Welcome to my github profile! I am an information security professional who some
 
 
 - 🌱 I’m currently learning windows forensics in SANS FOR508
-- 🔭 I’m currently working on custom instruction set architectures and virtual machines
+- 🔭 I’m currently working on a [RISCAL, a custom instruction set architecture VM](https://github.com/Psmths/riscal-cpu) and a [network scan aggregator](https://github.com/Psmths/digital-witness)
 - ❤️ Passionate about Network Forensics, Security Monitoring, Threat Hunting
 - 📜 GCFE
 - 🌎 English/Italian
