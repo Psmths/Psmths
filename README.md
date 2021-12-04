@@ -2,7 +2,6 @@
 
 ``` yaml
 name: Psmths
-site: https://phreatica.com
 role: security analyst
 
 interests:
