@@ -8,11 +8,12 @@ interests:
   - network forensics
   - network security monitoring
   - threat hunting
-  
+  - cloud security
+
 programming-languages:
   - python
-  - c++
-  
+  - c/c++
+
 human-languages:
   - english
   - italian
