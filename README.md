@@ -3,6 +3,7 @@
 ``` yaml
 interests:
   - forensics
+  - incident response
   - security monitoring
   - threat hunting
   - cloud security
