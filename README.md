@@ -10,7 +10,8 @@ interests:
 
 programming-languages:
   - python
-  - c/c++
+  - c++
+  - c
 
 human-languages:
   - english
