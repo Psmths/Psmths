@@ -1,4 +1,4 @@
-## Welcome!
+## Howdy!
 
 ``` yaml
 interests:
@@ -10,6 +10,7 @@ interests:
 
 programming-languages:
   - python
+  - powershell
   - php
   - c++
   - c
